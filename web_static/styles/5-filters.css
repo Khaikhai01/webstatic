@@ -5,7 +5,7 @@
 
 .locations{
     border-right: 1px solid #DDDDDD ; 
-    margin-right: 0;
+    /* margin-right: 0; */
     margin-left: 40px;
 }
 
@@ -21,7 +21,7 @@
     border-radius: 4px;
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    /* justify-content: flex-end; */
     border: 1px solid  #DDDDDD ;
 }
 
@@ -45,6 +45,7 @@
     border-radius: 4px;
     margin-right: 30px;
     margin-left: auto;
+    border: none;
 }
 
 .filters button:hover{
